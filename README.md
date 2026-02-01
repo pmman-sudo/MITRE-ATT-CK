@@ -29,3 +29,5 @@ The objective of this lab was to understand and apply the MITRE ATT&CK framework
 - Understanding Detection Gaps & Defensive Coverage
 
 - Analytical Thinking in Cyber Threat Intelligence
+# Steps
+ 
